@@ -4,4 +4,3 @@
 
 blablabla
 
-[lorem ipsum](http:google.com)
