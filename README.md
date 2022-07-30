@@ -1,6 +1,6 @@
 # Deneme
 
-## alt bilgi
+## Alt Bilgi
 
 blablabla
 
